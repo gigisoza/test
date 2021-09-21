@@ -14,6 +14,7 @@ p1 = []
 artificial_intelligence = []
 
 
+
 def deck():
     random.shuffle(fulldeck)
 
